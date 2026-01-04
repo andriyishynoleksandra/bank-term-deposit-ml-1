@@ -1,4 +1,4 @@
-# Mid-term-Project-Binary-Classification-for-Bank-Term-Deposit-Subscription
+# Binary-Classification-for-Bank-Term-Deposit-Subscription
 
 ## Задача
 Побудувати модель, яка прогнозує, чи підпише клієнт банку строковий депозит на основі демографічних та поведінкових характеристик.
